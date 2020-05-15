@@ -30,7 +30,7 @@ $ sudo apt-get install checkra1n
 ```
 
 ## The iOS filetree
-For your convenience, I've gone ahead and made a `tree` reading of the root of a checkra1n-jailbroken iPad Pro 12.9in that you can find [here](#) (it's pretty big!).  Hopefully this will help you not have to look through hundreds of files to edit your device.
+For your convenience, I've gone ahead and made a `tree` reading of the root of a checkra1n-jailbroken iPad Pro 12.9in that you can find [here](#) (it's pretty big!).  Hopefully this will help you not have to look through hundreds of files to edit your device.  I don't reccommend that you open the file in a web browser, as it's about half a gigabyte.
 
 ## Editing .PLIST files
 `.plist` files are the core of a jailbroken iDevice.  They define settings and properties in either binary or XML.  Don't try to edit your device's binary `.plist` files with a text editor, as that's very dangerous and could brick your device.  Instead, if you're on Linux, install `plistutil`: 
